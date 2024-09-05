@@ -1,0 +1,1 @@
+This project is to build a Landing page given by 'The Odin Project' team. Using HTML, CSS, and Flexbox.
